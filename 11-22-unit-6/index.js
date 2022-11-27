@@ -116,4 +116,16 @@
 //     }
 //   }
 // };
-// chesk(obj);
+// chesk(obj)
+
+// const great=(name)=>{
+//     console.log(`Hollo ${name} how are you`);
+// }
+// great("shohid")
+
+// const check = (obj) => {
+//   return obj == 0 ? 1 : 0;
+// };
+// check();
+//
+console.log("lo");
